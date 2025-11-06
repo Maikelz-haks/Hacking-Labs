@@ -26,7 +26,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## Contacto
 
-Si tienes preguntas o sugerencias, puedes contactarme a través de [tu método de contacto preferido].
+Si tienes preguntas o sugerencias, puedes contactarme!
 
 ---
 
